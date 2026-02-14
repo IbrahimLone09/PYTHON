@@ -1,3 +1,5 @@
+"""using property decorator"""
+
 class student:
     def __init__(self,phy,chem,math):
         self.phy = phy

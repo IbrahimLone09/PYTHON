@@ -9,5 +9,5 @@ class person:
 
 p1 = person()
 p1.changename("Rahul")
-print(p1.name)
-print(person.name)
+print(p1.name)           #Rahul
+print(person.name)       #Rahul
